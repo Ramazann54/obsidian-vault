@@ -209,14 +209,23 @@
               "icon": "lucide-ghost",
               "title": "calendar"
             }
+          },
+          {
+            "id": "aa5a85dd04285d5b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 278.5,
-    "collapsed": true
+    "width": 278.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,7 +237,8 @@
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
       "audio-recorder:Начать/остановить запись": false,
-      "obsidian-task-progress-bar:Открыть вид Task Genius": false
+      "obsidian-task-progress-bar:Открыть вид Task Genius": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "94891c35aa974037",
