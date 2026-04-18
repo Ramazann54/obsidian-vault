@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Учеба/8 семестр/Семинар/Семинар.md",
+                "file": "Без названия.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Семинар"
+              "title": "Без названия"
             }
           }
         ]
@@ -202,12 +202,13 @@
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
       "audio-recorder:Начать/остановить запись": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-task-progress-bar:Открыть вид Task Genius": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "c35c2289bd0d81c1",
   "lastOpenFiles": [
+    "Учеба/8 семестр/Семинар/Семинар.md",
+    "Без названия.md",
     "Учеба/8 семестр/Семинар",
     "Психология общения.md",
     "Программирование на языке высокого уровня.md",
@@ -226,7 +227,6 @@
     "14.04.2026.md",
     "Учеба/8 семестр/Смм/dota news.md",
     "Pasted image 20260414092420.png",
-    "Учеба/8 семестр/Семинар/Семинар.md",
     "Продукты.md",
     "templates/Daily.md",
     "templates",
@@ -250,7 +250,6 @@
     "pics/Pasted image 20260304182537.png",
     "pics",
     "~$_6_zadanie_k_prakticheskomu_zanyatiyu_7.doc",
-    "~$_5_zadanie_k_prakticheskomu_zanyatiyu_6.doc",
     "Pasted image 20260304182308.png",
     "Untitled.canvas"
   ]
