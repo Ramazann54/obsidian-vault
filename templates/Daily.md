@@ -1,4 +1,4 @@
-# 🗓️ {{date:DD.MM.YYYY}} — Daily Note
+
 
 ## 🌅 Начало дня
 
