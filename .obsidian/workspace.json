@@ -4,49 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "afdb3ce2ed74ab2e",
+        "id": "6f386ed9d1ae9331",
         "type": "tabs",
         "children": [
           {
-            "id": "c35c2289bd0d81c1",
+            "id": "d59f659eec352276",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Учеба/8 семестр/Семинар/Проблемы приложения.md",
+                "file": "AntiProcrastination.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Проблемы приложения"
-            }
-          },
-          {
-            "id": "0607ab110681182b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/📚 Учёба на неделю — 20.04–25.04.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "📚 Учёба на неделю — 20.04–25.04"
-            }
-          },
-          {
-            "id": "333c521962c289ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "AntiProcrastination"
             }
           }
         ]
@@ -234,18 +206,20 @@
       "obsidian-task-progress-bar:Открыть вид Task Genius": false
     }
   },
-  "active": "796226ac5f1d7c1d",
+  "active": "d59f659eec352276",
   "lastOpenFiles": [
+    "daily/Дела делишки.md",
     "AntiProcrastination.md",
-    "Огэ тьютор.md",
-    "Новая жизнь.md",
+    "daily/📚 Учёба на неделю — 20.04–25.04.md",
+    "Учеба/8 семестр/Семинар/Проблемы приложения.md",
     "Без названия.md",
     "Без названия 1.md",
+    "Новая жизнь.md",
+    "Огэ тьютор.md",
     "daily/2026-05-30.md",
     "daily/2026-05-29.md",
     "Учеба/8 семестр/Семинар/Семинар.md",
     "Учеба/8 семестр/Текущий семестр.md",
-    "Учеба/8 семестр/Семинар/Проблемы приложения.md",
     "conflict-files-obsidian-git.md",
     "Учеба/8 семестр/Смм/кофейня.md",
     "Учеба/8 семестр/Смм/15.04.md",
@@ -253,7 +227,6 @@
     "Учеба/8 семестр/Смм/dota news.md",
     "Учеба/8 семестр/Практика 8 семестр.md",
     "Учеба/8 семестр/Психология общения.md",
-    "daily/Дела делишки.md",
     "Привычки.md",
     "Учеба/Долги/Программирование на языке высокого уровня.md",
     "Учеба/Долги/Академическая разница.md",
@@ -261,7 +234,6 @@
     "pics/Pasted image 20260514113214.png",
     "Плечи.md",
     "daily/2026-04-23.md",
-    "daily/📚 Учёба на неделю — 20.04–25.04.md",
     "daily/29 04 2026.md",
     "Учеба/8 семестр/Семинар",
     "pics/Pasted image 20260414092420.png",
